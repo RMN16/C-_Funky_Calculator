@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\bin\Debug\FunkyCalculator.exe.config
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\bin\Debug\FunkyCalculator.exe
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\bin\Debug\FunkyCalculator.pdb
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.Properties.Resources.resources
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.exe
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.pdb
+C:\Users\PC\Desktop\FunkyCalculator\FunkyCalculator\obj\Debug\FunkyCalculator.Form1.resources
