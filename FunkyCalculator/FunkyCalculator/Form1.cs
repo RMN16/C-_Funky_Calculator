@@ -18,16 +18,16 @@ namespace FunkyCalculator
 
         private string currentDisplay;
         private bool shouldClearDisplay;
-        private Timer funkyTimer;
+        //private Timer funkyTimer;
 
         private Color originalBackColor;
 
-        //      private TextBox displayTextBox;
-        //      private Label funkyLabel;
-        //      private Button[] numberButtons;
+        //private TextBox displayTextBox;
+        //private Label funkyLabel;
+        //private Button[] numberButtons;
 
-        //      private Button btnAdd, btnSubtract, btnMultiply, btnDivide, btnModulo, btnPower;
-        //      private Button btnEquals, btnClear, btnBackspace, btnDecimal, btnToggleSign;
+        //private Button btnAdd, btnSubtract, btnMultiply, btnDivide, btnModulo, btnPower;
+        //private Button btnEquals, btnClear, btnBackspace, btnDecimal, btnToggleSign;
 
         public Form1()
         {
@@ -276,3 +276,4 @@ namespace FunkyCalculator
         }
     }
 }
+
